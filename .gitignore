@@ -22,3 +22,5 @@ crash.log
 .envrc
 bin
 dist
+
+main.tf
